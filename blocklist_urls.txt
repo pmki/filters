@@ -1,5 +1,5 @@
 # Title: Blocklist URLs
-# Description: This list my blocklist urls.
+# Description: This is my blocklist urls.
 #
 
 0.0.0.0 example.net
