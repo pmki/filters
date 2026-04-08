@@ -1,5 +1,5 @@
 # Title: Allowlist URLs
-# Description: This list my allowlist urls.
+# Description: This is my allowlist urls.
 #
 
 example.com
